@@ -185,3 +185,10 @@ app_license = "MIT"
 # auth_hooks = [
 #	"erpnext_custom.auth.validate"
 # ]
+
+# Fixtures
+# ------------------------------
+
+fixtures = [
+       "Custom Field"
+]
