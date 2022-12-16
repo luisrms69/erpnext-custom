@@ -193,7 +193,7 @@ fixtures = [
        "Custom Field",
        {"doctype": "Role Profile",
 	"filters": {
-		"name": ["in", "Socio, Presidente Consejo de Administracion, Secretario Consejo de Administracion, Tesorero Consejo de Administracion"]
+		"name": ["in", "Socio, Presidente Consejo Administracion, Secretario Consejo de Administracion, Tesorero Consejo de Administracion"]
               }
        }
        

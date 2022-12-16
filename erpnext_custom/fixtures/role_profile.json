@@ -23,6 +23,57 @@
  {
   "docstatus": 0,
   "doctype": "Role Profile",
+  "modified": "2022-12-16 17:33:17.590193",
+  "name": "Presidente Consejo Administracion",
+  "role_profile": "Presidente Consejo Administracion",
+  "roles": [
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Expense Approver"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Loan Manager"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Presidente Consejo Administracion",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
   "modified": "2022-12-16 16:11:49.588927",
   "name": "Secretario Consejo de Administracion",
   "role_profile": "Secretario Consejo de Administracion",
