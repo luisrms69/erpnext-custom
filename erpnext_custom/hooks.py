@@ -190,5 +190,11 @@ app_license = "MIT"
 # ------------------------------
 
 fixtures = [
-       "Custom Field"
+       "Custom Field",
+       {"doctype": "Role Profile",
+	"filters": {
+		"name": ["in", "Socio"]
+              }
+       }
+       
 ]

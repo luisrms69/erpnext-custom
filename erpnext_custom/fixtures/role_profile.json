@@ -1,0 +1,23 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2022-12-16 16:04:54.657060",
+  "name": "Socio",
+  "role_profile": "Socio",
+  "roles": [
+   {
+    "parent": "Socio",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Socio",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   }
+  ]
+ }
+]
